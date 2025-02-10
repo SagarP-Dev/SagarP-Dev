@@ -2,6 +2,15 @@
 <h3 align="center">Full Stack MERN Developer | 💻 Open-Source Enthusiast | ⚡ Tech Explorer</h3>  
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sagar-trushna-panigrahi-079b6727a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://sagar-portfolio-gold.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Passionate+about+Coding+and+Innovation;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
@@ -17,26 +26,36 @@
 
 ---
 
-## 🔥 Tech Stack  
+## 🛠️ Tech Stack  
 ### 🚀 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
 ### 🎨 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</p>
 
 ### 🛠️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white">
+</p>
 
 ### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
 ### ⚡ Tools & Version Control  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 ---
 
@@ -55,18 +74,6 @@
 ## 🎯 GitHub Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarP-Dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sagar-trushna-panigrahi-079b6727a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://sagar-portfolio-gold.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=react&logoColor=white">
-  </a>
 </p>
 
 ---
