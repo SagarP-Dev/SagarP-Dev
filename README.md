@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Sagar Panigrahi! 🚀</h1>  
-<h3 align="center">Full Stack MERN Developer | 💻 Open-Source Enthusiast | ⚡ Tech Explorer</h3>  
+<h3 align="center">Full Stack Python Developer | 💻 Open-Source Enthusiast | ⚡ Tech Explorer</h3>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-trushna-panigrahi-079b6727a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://sagar-portfolio-gold.vercel.app/" target="_blank">
+  <a href="https://portfolio-eight-red-14.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
@@ -17,10 +17,10 @@
 ---
 
 ## 🚀 About Me
-- 💡 Passionate about **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💡 Passionate about **Full Stack (Python, SQL, Django, MongoDB, Express, React, Node.js)**
 - 🔭 Currently working on **innovative web applications**
 - 🌱 Learning **Next.js, GraphQL, and Cloud Technologies**
-- 💬 Ask me about **React, Node.js, and Full-Stack Development**
+- 💬 Ask me about **Python, React, Node.js, and Full-Stack Development**
 - 📩 Reach me at **[sagarpanigrahi807@gmail.com](mailto:sagarpanigrahi807@gmail.com)**
 - 🎯 Fun fact: I love **solving coding challenges & exploring new tech trends**  
 
