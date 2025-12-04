@@ -41,12 +41,14 @@
 
 ### 🛠️ Backend  
 <p align="left">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white">
 </p>
 
 ### 🗄️ Database  
 <p align="left">
+  <img src="https://img.shields.io/badge/-SQL-47A248?style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
