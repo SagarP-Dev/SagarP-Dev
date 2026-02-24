@@ -1,43 +1,49 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
   
-  # Hi there, I'm [Your Name]! 👋
-  ### Python Full Stack Developer | Building scalable backends & interactive frontends
+  # Hi there, I'm Sagar PAnigrahi! 👋
+  ### Python Full Stack Developer | Bridging the gap between sleek interfaces and robust databases
 </div>
 
 ---
 
 ### 🐍 About Me
-* 💻 Currently working on **[Insert your current project, e.g., a Django + React E-commerce site]**
-* 🌱 I’m currently diving deeper into **[e.g., Docker, AWS, or Advanced React patterns]**
-* 💬 Ask me about **Python, Django/Flask, JavaScript, and database architecture**
-* 📫 Reach me at: **[Your Email]** or connect on **[LinkedIn URL]**
+* 💻 Currently building **[Insert your current project, e.g., a full-stack inventory management system]**
+* 🌱 Deep diving into **[e.g., Optimizing SQL queries, Advanced CSS animations, or Cloud Deployment]**
+* 💬 Ask me about **Python architectures, responsive UI, and relational database management**
+* 📫 Reach me at: **sagarpanigrahi807@gmail.com** or connect on **https://www.linkedin.com/in/sagar-trushna-panigrahi-079b6727a/**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <br>
+  <i><b>Bringing Data to Life: Where Backend Logic meets Frontend Experience ⚙️✨</b></i><br>
+  <img src="https://media.giphy.com/media/l41l91H6p002LgEaQ/giphy.gif" width="450"/>
+  <br><br>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
-**Backend:**
+**Backend & Frameworks:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Databases:**
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools:**
+**Tools & Environment:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🚀 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord" width="400"/>
 </div>
